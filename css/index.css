@@ -6,10 +6,11 @@ body{
 }
 button{
     border: 1px solid black;
-    height: 15em;
+    height: 8em;
     width:15em;    
     margin:2em;
     text-align: center;
+    font-size: 2em;
    
 }
 #redc{   
