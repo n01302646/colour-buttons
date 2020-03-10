@@ -1,0 +1,24 @@
+
+body{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    grid-gap: 1em;
+}
+button{
+    border: 1px solid black;
+    height: 15em;
+    width:15em;    
+    margin:2em;
+    text-align: center;
+   
+}
+#redc{   
+    background-color: red;
+}
+#bluec{
+    background-color: blue;
+}
+#greenc{
+    background-color: green;
+}
+
